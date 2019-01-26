@@ -1,0 +1,71 @@
+[{
+			"id": "01",
+			"pictureName": "TomOdell.png",
+			"name": "Tom Odell",
+			"bio": "A British singer/songwriter with a keen sense for both atmosphere and melody.",
+			"listOfSongs": [{
+					"title": "Another Love",
+					"duration": 244
+				},
+				{
+					"title": "Jubilee Road",
+					"duration": 313
+				}
+			]
+		},
+		{
+			"id": "02",
+			"pictureName": "CalvinHarris.png",
+			"name": "Calvin Harris",
+			"bio": "Across eleven years, five albums and five years atop the Forpes highest paid DJs list, Scotland's Calvin Harris has set his own agenda for global domination",
+			"listOfSongs": [{
+				"title": "Promises (with San Samith)",
+				"duration": 153
+			}]
+		},
+		{
+			"id": "03",	
+			"pictureName": "PhilCollins.png",
+			"name": "PhilCollins",
+			"bio": "Phil Collins'status as one of the most successful pop and adult contempory singers of the '80s and beyond was probably as much a surprise to him as it was to many others.",
+			"listOfSongs": [{
+					"title": "In The Air Tonight",
+					"duration": 153
+				},
+				{
+					"title": "You Can't Hurry Love",
+					"duration": 176
+				}
+			]
+		},
+		{
+			"id": "04",
+			"pictureName": "StevieWonder.png",
+			"name": "StevieWonder",
+			"bio": "Stevie Wonder is a much-beloved American icon and an indiputable genius not only of R&B but popular music in general.",
+			"listOfSongs": [{
+					"title": "I Just Called To Say I Love You",
+					"duration": 245
+				},
+				{
+					"title": "A Song For You",
+					"duration": 500
+				}
+			]
+		},
+		{
+			"id": "05",
+			"pictureName": "Saxophone.png",
+			"name": "Saxophone Dreamsound",
+			"bio": "put",
+			"listOfSongs": [{
+					"title": "Tears in Heaven",
+					"duration": 220
+				},
+				{
+					"title": "You're Beautiful",
+					"duration": 145
+				}
+			]
+		}
+	]
